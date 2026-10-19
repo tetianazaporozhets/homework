@@ -22,7 +22,7 @@
 5. Gradually blend in the dry mixture
 6. Stir in chocolate chips
 
-   > ⚠️ **Pro Tip:** Chill the dough for 30 minutes for thicker cookies!
+> ⚠️ **Pro Tip:** Chill the dough for 30 minutes for thicker cookies!
 
 ## Baking Time
 
@@ -35,8 +35,8 @@
 # Storage & Variations
 
 - [x] The classic recipe (tried & tested!)
-- [] Replace chocolate chips with M&Ms
-- [] Add 1 tsp cinnamon
+- [ ] Replace chocolate chips with M&Ms
+- [ ] Add 1 tsp cinnamon
 
 **Storage:** Keep in an airtight container for up to `1 week` or freeze for `3 months`.
 
